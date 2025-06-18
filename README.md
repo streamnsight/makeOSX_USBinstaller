@@ -9,6 +9,8 @@ the media, see references below.
 This script automates process on Linux platform, doing essentially the
 following:
 
+    apt-get install hfsprogs e2fsprogs dmg2img 
+
     mkdir -p /mnt/OSX_InstallESD /mnt/OSX_BaseSystem /mnt/usbstick
 
     # convert installer disk image to raw format
