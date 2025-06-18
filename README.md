@@ -1,4 +1,8 @@
-# mkosxinstallusb
+# Make a USB bootable Mac OS Installer on linux or a newer mac
+
+The downloadable installer to create a USB requires to run on a computer that supports the OS you're trying to install. That makes it hard to recover from a failing recovery disk. On old MacBooks, the Internet recovery also fails due to some files not being reachable, so unless you have a spare MBP, you are out of luck. 
+
+But you can do this on Linux or a newer Mac, using this process:
 
 Linux shell script that creates bootable USB flash drive with OS X installer.
 
